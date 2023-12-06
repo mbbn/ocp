@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96ef0060-c6f0-4e21-8774-992e0112cc72" name="Changes" comment="added OrderOfInitialization">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/mbbn/ocp/AnonymousArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/mbbn/ocp/IntegerCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/mbbn/ocp/date/JavaDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/mbbn/ocp/expression/SwitchExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/mbbn/ocp/initialize/ParentInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/mbbn/ocp/operator/Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/mbbn/ocp/patternMatching/PatternMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/mbbn/ocp/string/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/mbbn/ocp/string/StringPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mbbn/ocp/OrderOfInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mbbn/ocp/initialize/OrderOfInitialization.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;contexts&quot;: [
+    {
+      &quot;name&quot;: &quot;docker-desktop&quot;
+    }
+  ],
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="KubernetesSettings">
+    <option name="contextName" value="docker-desktop" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Z7f834GXjc59sBTz17L6v9adXR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/ocp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ir.mbbn.ocp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ocp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JavaDate">
+    <configuration name="AnonymousArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.mbbn.ocp.AnonymousArray" />
+      <module name="ocp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.mbbn.ocp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.mbbn.ocp.date.JavaDate" />
+      <module name="ocp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.mbbn.ocp.date.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.mbbn.ocp.patternMatching.PatternMatching" />
+      <module name="ocp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.mbbn.ocp.patternMatching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.mbbn.ocp.string.StringMethods" />
+      <module name="ocp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.mbbn.ocp.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.mbbn.ocp.expression.SwitchExpression" />
+      <module name="ocp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.mbbn.ocp.expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaDate" />
+        <item itemvalue="Application.AnonymousArray" />
+        <item itemvalue="Application.StringMethods" />
+        <item itemvalue="Application.SwitchExpression" />
+        <item itemvalue="Application.PatternMatching" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96ef0060-c6f0-4e21-8774-992e0112cc72" name="Changes" comment="" />
+      <created>1701777877982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701777877982</updated>
+      <workItem from="1701833044721" duration="6916000" />
+    </task>
+    <task id="LOCAL-00001" summary="initlize project">
+      <created>1701778224216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701778224216</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added OrderOfInitialization">
+      <created>1701780225308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701780225308</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initlize project" />
+    <MESSAGE value="added OrderOfInitialization" />
+    <option name="LAST_COMMIT_MESSAGE" value="added OrderOfInitialization" />
+  </component>
+</project>
