@@ -1,11 +1,9 @@
-package ir.mbbn.ocp;
+package ir.mbbn.ocp.initialize;
 
-public class OrderOfInitialization {
-
-    private String f1 = "initialize field";
+public class OrderOfInitialization extends ParentInitialization {
 
     {
-        System.out.println("initialize block!, "+ f1);
+        System.out.println("initialize block!, " + f1);
     }
 
     static {
@@ -14,7 +12,7 @@ public class OrderOfInitialization {
 
     public OrderOfInitialization() {
         f1 = "change name!";
-        System.out.println("call construct!");
+        System.out.println("call construct! " + f1);
     }
 
     @Override
